@@ -1,0 +1,21 @@
+= e24paymentpipe
+
+A ruby implementation of E24PaymentPipe of italian bank Intesa San Paolo. It allows to connect to online credit card payment from http://www.aciworldwide.com.
+
+The project is in it initial development process.
+
+== Contributing to e24paymentpipe
+ 
+* Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
+* Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it
+* Fork the project
+* Start a feature/bugfix branch
+* Commit and push until you are happy with your contribution
+* Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
+* Please try not to mess with the Rakefile, version, or history. If you want to have your own version, or is otherwise necessary, that is fine, but please isolate to its own commit so I can cherry-pick around it.
+
+== Copyright
+
+Copyright (c) 2010 Abdullah AL Hamad. See LICENSE.txt for
+further details.
+
