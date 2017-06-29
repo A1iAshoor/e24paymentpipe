@@ -16,6 +16,6 @@ The project is in it initial development process.
 
 == Copyright
 
-Copyright (c) 2010 Abdullah AL Hamad. See LICENSE.txt for
+Copyright (c) 2017 Ali Ashoor. See LICENSE.txt for
 further details.
 
